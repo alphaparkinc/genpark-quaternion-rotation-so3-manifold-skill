@@ -1,0 +1,16 @@
+{
+  "name": "genpark-quaternion-rotation-so3-manifold-skill",
+  "version": "1.0.0",
+  "description": "Unit quaternion Hamiltonian algebra engine implementing 3D spatial attitude representation and Spherical Linear Interpolation (SLERP) on SO(3).",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "quaternions",
+    "so3",
+    "slerp",
+    "spatial-rotation",
+    "robotics"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
